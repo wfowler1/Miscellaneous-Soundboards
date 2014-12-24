@@ -1,0 +1,15 @@
+#virtual name,hardware name
+Horizontal-,A,LeftArrow,JoystickAxis0-
+Horizontal+,D,RightArrow,JoystickAxis0+
+Vertical-,S,DownArrow,JoystickAxis1-
+Vertical+,W,UpArrow,JoystickAxis1+
+Fire1,LeftControl,Mouse0,JoystickButton0
+Fire2,LeftAlt,Mouse1,JoystickButton1
+Fire3,LeftCommand,Mouse2,JoystickButton2
+Jump,Space,JoystickButton3
+Mouse X-,MouseAxisX-
+Mouse X+,MouseAxisX+
+Mouse Y-,MouseAxisY-
+Mouse Y+,MouseAxisY+
+Mouse ScrollWheel-,MouseWheel-
+Mouse ScrollWheel+,MouseWheel+
